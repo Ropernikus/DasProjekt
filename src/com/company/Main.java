@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println(zahl++);
         System.out.println(++zahl);
-        System.out.println(5/2);
+        System.out.println(5/22);
         System.out.println(ergebnis);
         System.out.println(ergebnis2);
 
